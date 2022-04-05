@@ -1,0 +1,19 @@
+  
+1. create database insurance;  {Schema}
+
+SELECT * FROM insurance.admin;
+
+SELECT * FROM insurance.approvals;
+
+SELECT * FROM insurance.category;
+
+SELECT * FROM insurance.disapproved;
+
+SELECT * FROM insurance.hibernate_sequence;
+
+SELECT * FROM insurance.policies;
+
+SELECT * FROM insurance.queries;
+
+SELECT * FROM insurance.user;
+
